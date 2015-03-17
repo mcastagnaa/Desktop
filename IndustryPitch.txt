@@ -1,0 +1,18 @@
+I believe the asset management industry is not currently providing clients and potential clients with the service they should expect given the technology currently available: open source code and social media feeds are very marginal to the typical operations.
+While the front desks are able to elaborate sophisticated portfolio construction algorithms, operations are still bogged down by legacy systems, unsophisticated spreadsheets’ webs and plethora of operational consultants each pedalling their preferred systems. The industry is still reasoning by analogy when, at this stage, first principles are required to move forward. 
+
+Add very peculiar remuneration policies and it's not surprising we are a hated industry: we offer poor service and we get paid too much.
+
+As far as servicing the client, operational limits are in the way of enabling him to understand what went on with his money, how much he paid and, crucially, what could possibly happen going forward. This limits the ability to make informed investment choices. 
+
+Unfortunately the regulatory environment is not helping: with all due respect, what is developing is a race to the bottom where the requests (e.g. KIIDS, factsheets, SRRI indicators, reporting to central banks) deliver useless information. You, the client, just don't understand what you bought and what could possibly happens to what you bought by looking at that.
+Regulation force you to a ticking boxes exercise without any merit (it doesn't prevent failure) and no useful information.
+On the flip side it is very easy to comply with if you are serious about running proper portfolio and performance analysis: on top of ticking all the boxes you would be also able to understand what is going on and relate that to your client.
+
+The retail/institutional investors divide is relevant: scale matters more for the former than the latter, maybe, and the way to address the two is also different. What is not different is the need to develop the capability to explain, to tell relevant stories informing the sales process.
+I made extensive use of data science techniques and the uniform answer is: performance doesn't explain sales (in NCCF terms). It is your ability to deliver the right information, the right way to the right client what we should focus on.
+
+In short: the "ripe for disruption" cliché does apply to the asset management industry.
+
+I believe transparency will be the name of the game: the first company able to provide full transparency to their product performance and risk numbers to their client/potential clients will be one step ahead. In order to get there that company will need to be able to efficiently crunch their data set and be able to correctly visualize and broadcast the results.
+
